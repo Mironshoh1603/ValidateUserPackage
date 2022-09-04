@@ -1,0 +1,22 @@
+{
+  "name": "validate-user-package",
+  "version": "1.0.0",
+  "description": "Username and password validate with yep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mironshoh1603/ValidateUserPackage.git"
+  },
+  "author": "Mironshoh Asadov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mironshoh1603/ValidateUserPackage/issues"
+  },
+  "homepage": "https://github.com/Mironshoh1603/ValidateUserPackage#readme",
+  "dependencies": {
+    "yup": "^0.32.11"
+  }
+}
